@@ -13,9 +13,8 @@ My name is Margarita Zhentsova, and I'm a junior frontend developer. My main spe
 
 ## Projects
 
-- [Currency Exchange "CryptoSale"]((https://nedostatoksna.github.io/currency-exchange-project/) "view on git pages") This is a training application built using HTML, JavaScript and styled with CSS.
+- [Currency Exchange "CryptoSale"](https://nedostatoksna.github.io/currency-exchange-project/ "view on git pages") This is a training application built using HTML, JavaScript and styled with CSS.
 - [Todo App "Uno To Do"](https://nedostatoksna.github.io/uno_todo_project/ "view on git pages") This is a training application built using React, Redux, Hooks and styled with styled-components.
-- **Project 2:** 
 
 ## Education
 
