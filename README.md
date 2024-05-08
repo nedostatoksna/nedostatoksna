@@ -1,5 +1,5 @@
 ### Hello! 👋
-Hello! My name is Margarita Zhentsova, and I'm a frontend developer with over a year of experience in web development. My main specialization is creating interactive and user-friendly interfaces using HTML, CSS, and JavaScript, as well as React and Next.js frameworks.
+My name is Margarita Zhentsova, and I'm a frontend developer with over a year of experience in web development. My main specialization is creating interactive and user-friendly interfaces using HTML, CSS, and JavaScript, as well as React and Next.js frameworks.
 
 ## Skills
 
@@ -13,7 +13,7 @@ Hello! My name is Margarita Zhentsova, and I'm a frontend developer with over a 
 
 ## Projects
 
-- **Project 1:** 
+- **Project 1:** [Todo App "Uno To Do"](https://nedostatoksna.github.io/uno_todo_project/ view on git pages). This is a training application built using React, Redux, Hooks and styled with styled-components.
 
 - **Project 2:** 
 
