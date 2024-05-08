@@ -13,7 +13,7 @@ My name is Margarita Zhentsova, and I'm a frontend developer with over a year of
 
 ## Projects
 
-- **Project 1:** [Todo App "Uno To Do"](https://nedostatoksna.github.io/uno_todo_project/ view on git pages). This is a training application built using React, Redux, Hooks and styled with styled-components.
+- [Todo App "Uno To Do"](https://nedostatoksna.github.io/uno_todo_project/ "view on git pages") This is a training application built using React, Redux, Hooks and styled with styled-components.
 
 - **Project 2:** 
 
