@@ -1,6 +1,4 @@
-### Hi there 👋
-# Resume: Frontend Developer
-
+### Hello! 👋
 Hello! My name is Margarita Zhentsova, and I'm a frontend developer with over a year of experience in web development. My main specialization is creating interactive and user-friendly interfaces using HTML, CSS, and JavaScript, as well as React and Next.js frameworks.
 
 ## Skills
