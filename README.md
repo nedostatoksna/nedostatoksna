@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is Margarita Zhentsova, and I'm a junior frontend developer. My main specialization is creating interactive and user-friendly interfaces using HTML, CSS, and JavaScript, as well as React and Next.js frameworks.
+My name is Margarita Zhentsova, and I'm a frontend developer. My primary specialization is creating user interfaces using HTML, CSS, and JavaScript, as well as developing applications based on React, Next.js, using TypeScript.
 
 ## Skills
 
@@ -10,6 +10,8 @@ My name is Margarita Zhentsova, and I'm a junior frontend developer. My main spe
 - **React:** I have experience in developing Single Page Applications (SPAs) using the React library. I can create high-level components, manage application state, and work with React Router for navigation.
 
 - **Next.js:** I'm familiar with the Next.js framework and have experience applying it in projects. I can use it to create Server-Side Rendering (SSR) and Static Site Generation (SSG) applications, optimize their performance, and improve SEO.
+  
+- **TypeScript:** I know TypeScript and apply it for static type checking of code, which helps prevent errors and improves code understanding by other developers.
 
 ## Projects
 
