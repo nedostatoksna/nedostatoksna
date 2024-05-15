@@ -27,8 +27,8 @@ My name is Margarita Zhentsova, and I'm a frontend developer. My primary special
 If you have any questions or collaboration opportunities, feel free to contact me:
 
 - Email: mzhentsova@gmail.com
-- LinkedIn: -
-- GitHub: https://github.com/nedostatoksna
+- [LinkedIn](www.linkedin.com/in/margarita-zhentsova-a82712309)
+- [GitHub](https://github.com/nedostatoksna)
 
 I'm looking forward to discussing collaboration opportunities or answering any questions you may have!
 
