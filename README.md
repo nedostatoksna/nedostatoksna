@@ -20,7 +20,7 @@ My name is Margarita Zhentsova, and I'm a frontend developer. My primary special
 
 ## Education
 
-- **
+- Georgia School of Programming (GSP)
 
 ## Contact
 
